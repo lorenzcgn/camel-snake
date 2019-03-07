@@ -1,2 +1,2 @@
-# Conversione Stringhe Camel-Snake
-Conversione Stringhe da Camel a Snake e da Snake in Camel (Java)
+# camel-snake
+Conversione Stringhe Camel-Snake
