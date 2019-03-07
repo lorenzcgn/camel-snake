@@ -7,8 +7,8 @@ public class Camelsnake {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
  
-        System.out.println("Benvenuto, questo programma ti consente di convertire stringhe più o meno lunghe da snake a camel o viceversa.");                               
-        int t=1;
+        System.out.println("Benvenuto, questo programma ti consente di convertire stringhe piu' o meno lunghe da snake a camel o viceversa.");                               
+        
         Conversione stringa=new Conversione("");
         String s1;
         boolean snake;
@@ -23,17 +23,7 @@ public class Camelsnake {
         if (snake==true) {
             stringa.conversioneInCamel();
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-    }
+       
     
+}
 }

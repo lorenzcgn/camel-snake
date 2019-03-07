@@ -14,9 +14,9 @@ import java.util.*;
         boolean snake = false;
         if (nome.contains("_")) {
             snake=true;
-            System.out.println("Ok la stringa inserita è di tipo snake");
+            System.out.println("Ok la stringa inserita e' di tipo snake");
         }
-        else System.out.println("Ok la stringa inserita è di tipo camel");
+        else System.out.println("Ok la stringa inserita e' di tipo camel");
         return snake;
     }
     
